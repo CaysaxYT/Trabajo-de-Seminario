@@ -37,6 +37,8 @@ MAC Address Changes: Accept
 Forged Transmits: Accept
 5.  Matriz de Solución de Errores (Troubleshooting)
 A continuacion se les brindara los enlaces de lo utilizado y de las fuentes usadas.
+
 Diagrama: https://lucid.app/lucidchart/816635e3-036a-4c79-9210-5b70a0ed944f/edit?viewport_loc=1834%2C-272%2C3262%2C1630%2C0_0&invitationId=inv_876bbe42-07d3-47b6-9bed-3e2e8eaf411d
+
 Manual: https://docs.gns3.com/
 
