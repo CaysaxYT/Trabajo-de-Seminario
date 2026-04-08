@@ -1,5 +1,5 @@
 ## Investigación: Implementación de Laboratorios Avanzados con GNS3, VirtualBox y ESXi
-####### ¡Hola! En este repositorio presento mi investigación sobre cómo montar un entorno de red profesional usando GNS3 sobre Windows 11. El objetivo es entender cómo conviven los hipervisores de Tipo 1 y Tipo 2 y cómo optimizar el rendimiento para que nuestras simulaciones no "exploten" la CPU.
+####### ¡Hola!En este repositorio presento mi investigación sobre cómo montar un entorno de red profesional usando GNS3 sobre Windows 11. El objetivo es entender cómo conviven los hipervisores de Tipo 1 y Tipo 2 y cómo optimizar el rendimiento para que nuestras simulaciones no "exploten" la CPU.
 ##### 1. Arquitectura de Virtualización en Windows 11
 Aislamiento de Núcleo y VBS
 Windows 11 viene con la Seguridad basada en Virtualización (VBS) activa por defecto. Como estudiantes, esto nos impacta directamente:
