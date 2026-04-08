@@ -9,7 +9,6 @@ Activación de VT-x/AMD-V
 Para que GNS3 funcione, la virtualización debe estar habilitada desde la "raíz" (el BIOS/UEFI).
 En el BIOS: Buscamos términos como Intel Virtualization Technology o SVM Mode (en AMD) y los ponemos en Enabled.
 Verificación: Desde Windows, la forma más fácil es abrir el Administrador de Tareas (Ctrl+Shift+Esc), ir a Rendimiento > CPU y verificar que diga Virtualización: Habilitado.
-![](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BKUCDAGYVJGIPPAKZQWPYWX65Q.jpg)]
 ##### 2. GNS3 VM: El Motor de Simulación
 La GNS3 VM es donde ocurre la magia. Sin ella, estaríamos limitados a usar solo recursos básicos de Windows.
 KVM (Kernel-based Virtual Machine)
